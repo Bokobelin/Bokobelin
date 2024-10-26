@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **💻 Developing a new crypto using Python**
 - 💬 Ask me about: **💡 Python and C#**
-- ⚡ Fun fact: **🎢 Sleeping helps me think about how to fix issues**
+- ⚡ Fun fact: **Sleeping helps me think about how to fix issues**
 
  **<h3 align="left">Skills</h3>**
 
