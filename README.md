@@ -1,4 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=Bokobelin&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -10,6 +9,7 @@
   </ul>
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=Bokobelin&label=Profile%20views&color=0e75b6&style=flat)
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Bokobelin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
