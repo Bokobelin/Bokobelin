@@ -15,16 +15,17 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Bokobelin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, but also fan of Python and C#.</h3>**
+ **<h3 align="left">🚀 Fan of C# and Python, but also a bit of web dev.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 🌱 I'm currently learning: **📚 Next.js**
-- 💬 Ask me about: **💡 C# and Python**
+- 💼 I'm currently working on: **💻 Developing a new crypto using Python**
+- 💬 Ask me about: **💡 Python and C#**
+- ⚡ Fun fact: **🎢 Sleeping helps me think about how to fix issues**
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" style="margin-right: 4px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=cs" height="32" alt="CSharp" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=flask" height="32" alt="Flask" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=dotnet" height="32" alt="ASP.NET" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=visualstudio" height="32" alt="Visualstudio" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=pycharm" height="32" alt="PyCharm" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=unity" height="32" alt="Unity" style="margin-right: 4px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
