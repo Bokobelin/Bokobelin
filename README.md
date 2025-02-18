@@ -18,7 +18,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new crypto using Python**
+- 💼 I'm currently working on: **💻 Making open-source cross-platform office tools**
 - 💬 Ask me about: **💡 Python and C#**
 - ⚡ Fun fact: **Sleeping helps me think about how to fix issues**
 
