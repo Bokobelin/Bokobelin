@@ -14,11 +14,11 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Bokobelin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Fan of C# and Python, but also a bit of web dev.</h3>**
+ **<h3 align="left">🚀 Fan of C# and web dev, but also a bit of python.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Making open-source cross-platform office tools**
+- 💼 I'm currently working on: **💻 Contributing to open-source**
 - 💬 Ask me about: **💡 Python and C#**
 - ⚡ Fun fact: **Sleeping helps me think about how to fix issues**
 
